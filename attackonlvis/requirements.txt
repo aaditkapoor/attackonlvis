@@ -1,0 +1,13 @@
+aiml==0.8.6
+BeautifulSoup==3.2.1
+beautifulsoup4==4.4.1
+Django==1.9.4
+request==0.0.5
+requests==2.9.1
+self==0.0.5
+six==1.9.0
+urllib3==1.11
+dj-database-url==0.4.0
+gunicorn==19.4.5
+psycopg2==2.6.1
+whitenoise==2.0.6
