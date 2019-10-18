@@ -1,7 +1,7 @@
 aiml==0.8.6
 BeautifulSoup==3.2.1
 beautifulsoup4==4.4.1
-Django==1.9.4
+Django==1.11.23
 request==0.0.5
 requests==2.9.1
 self==0.0.5
